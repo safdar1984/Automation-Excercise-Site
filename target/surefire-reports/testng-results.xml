@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-21T16:15:00 PKT" name="Suite" finished-at="2023-11-21T16:15:08 PKT" duration-ms="8506">
+  <suite started-at="2023-11-28T17:51:36 PKT" name="Suite" finished-at="2023-11-28T17:52:18 PKT" duration-ms="42254">
     <groups>
     </groups>
-    <test started-at="2023-11-21T16:15:00 PKT" name="Test" finished-at="2023-11-21T16:15:08 PKT" duration-ms="8506">
+    <test started-at="2023-11-28T17:51:36 PKT" name="Test" finished-at="2023-11-28T17:52:18 PKT" duration-ms="42254">
       <class name="AutomationTestCases.RegisterUser">
-        <test-method signature="Login()[pri:0, instance:AutomationTestCases.RegisterUser@633a2e99]" started-at="2023-11-21T16:15:00 PKT" name="Login" finished-at="2023-11-21T16:15:08 PKT" duration-ms="8465" status="PASS">
+        <test-method signature="UserFlow()[pri:0, instance:AutomationTestCases.RegisterUser@31e72cbc]" started-at="2023-11-28T17:51:36 PKT" name="UserFlow" finished-at="2023-11-28T17:52:18 PKT" duration-ms="42170" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login -->
+        </test-method> <!-- UserFlow -->
       </class> <!-- AutomationTestCases.RegisterUser -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
